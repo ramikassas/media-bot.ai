@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mediabot.ai.rdm.bz/sitemap.xml

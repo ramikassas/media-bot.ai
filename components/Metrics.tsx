@@ -37,7 +37,7 @@ const Metrics: React.FC = () => {
         <MetricCard 
           icon={Calendar}
           label="Domain Age"
-          value="2 Years"
+          value="7 Years"
           description="Established domain authority, providing a head start for SEO indexing and trust."
         />
         <MetricCard 
